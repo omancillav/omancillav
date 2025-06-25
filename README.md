@@ -8,14 +8,11 @@
 
 </div>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<img align="right" width="300px" alt="Coding GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM4cjFtNDNrcndzb29wb2E1bzVkYXIwdGt3MHAyaDVwN2I3NGQ5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
-<div align="center">
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM4cjFtNDNrcndzb29wb2E1bzVkYXIwdGt3MHAyaDVwN2J3NGQ5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300px"> 
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">&nbsp;***About me***
 
 ### 🌟 Who Am I?
-
 🚀 **Fullstack Developer** from Mexico 🇲🇽.
 
 📚 Currently studying **Software Development & Management Engineering**.
@@ -23,7 +20,6 @@
 💡 Passionate about turning **ideas into reality** through code.
 
 ### 🎯 What I Love
-
 💻 Building **modern web applications** with clean, efficient code.
 
 🎵 Listening to music & watching movies.
@@ -31,10 +27,7 @@
 🏎️ Following **Formula 1** races.
 
 ### 🔍 Current Status
-
-**Open to new opportunities** and exciting projects as a **freelancer**!.
-
-</div>
+**Open to new opportunities** and exciting projects as a **freelancer**!
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
