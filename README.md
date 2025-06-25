@@ -95,7 +95,4 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=omancillav&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-
-### ⭐ Don't forget to star my repositories if you find them interesting! ⭐
-
 </div>
