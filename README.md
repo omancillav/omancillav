@@ -1,11 +1,19 @@
 # Hi 👋, I'm Omar Mancilla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+<br>
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <div>
-  <div align=center>
-    <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
-  </div>
+  <img align="right" src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
+  
+  🚀 <strong>Fullstack Developer</strong> from Mexico, currently studying Software Development & Management Engineering.<br><br>
+  💻 I enjoy building modern web applications with clean, efficient code and turning ideas into reality.<br><br>
+  🎵 When I'm not coding, you can find me listening to music, watching movies, or following Formula 1 races.<br><br>
+  🔍 Always open to new opportunities and exciting projects as a freelancer.
 </div>
+
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <p align="center">
