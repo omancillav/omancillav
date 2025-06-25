@@ -4,22 +4,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8E%93+Software+Engineering+Student;%F0%9F%A4%96+AI+Enthusiastic)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="20">
 
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <div align="center">
-  
-<table>
-<tr>
-<td valign="top" width="50%">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM4cjFtNDNrcndzb29wb2E1bzVkYXIwdGt3MHAyaDVwN2J3NGQ5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%">
-
-</td>
-<td valign="top" width="50%">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM4cjFtNDNrcndzb29wb2E1bzVkYXIwdGt3MHAyaDVwN2J3NGQ5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300px"> 
 
 ### 🌟 Who Am I?
 
@@ -27,36 +20,21 @@
 
 📚 Currently studying **Software Development & Management Engineering**.
 
-💡 Passionate about turning **ideas into reality** through code.  
+💡 Passionate about turning **ideas into reality** through code.
 
 ### 🎯 What I Love
 
-💻 Building **modern web applications** with clean, efficient code.  
+💻 Building **modern web applications** with clean, efficient code.
 
-🎵 Listening to music & watching movies.  
+🎵 Listening to music & watching movies.
 
-🏎️ Following **Formula 1** races.  
+🏎️ Following **Formula 1** races.
 
 ### 🔍 Current Status
 
 **Open to new opportunities** and exciting projects as a **freelancer**!.
 
-</td>
-</tr>
-</table>
-
 </div>
-
-</td>
-<td valign="top" width="50%">
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Tech Stack & Skills**
 
