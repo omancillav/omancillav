@@ -16,6 +16,11 @@
 <tr>
 <td valign="top" width="50%">
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM4cjFtNDNrcndzb29wb2E1bzVkYXIwdGt3MHAyaDVwN2J3NGQ5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%">
+
+</td>
+<td valign="top" width="50%">
+
 ### 🌟 Who Am I?
 
 🚀 **Fullstack Developer** from Mexico 🇲🇽.
@@ -37,9 +42,13 @@
 **Open to new opportunities** and exciting projects as a **freelancer**!.
 
 </td>
-<td valign="top" width="50%">
+</tr>
+</table>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM4cjFtNDNrcndzb29wb2E1bzVkYXIwdGt3MHAyaDVwN2J3NGQ5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%">
+</div>
+
+</td>
+<td valign="top" width="50%">
 
 </td>
 </tr>
