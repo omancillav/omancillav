@@ -2,7 +2,7 @@
 
 # Hi, I'm Omar Mancilla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineering+Estudent;AI+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineering+Estudent;AI+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
