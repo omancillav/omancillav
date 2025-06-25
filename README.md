@@ -18,18 +18,23 @@
 
 ### 🌟 Who Am I?
 
-🚀 **Fullstack Developer** from Mexico 🇲🇽  
-📚 Currently studying **Software Development & Management Engineering**  
-💡 Passionate about turning **ideas into reality** through code  
+🚀 **Fullstack Developer** from Mexico 🇲🇽.
+
+📚 Currently studying **Software Development & Management Engineering**.
+
+💡 Passionate about turning **ideas into reality** through code.  
 
 ### 🎯 What I Love
 
-💻 Building **modern web applications** with clean, efficient code  
-🎵 Listening to music & watching movies  
-🏎️ Following **Formula 1** races  
+💻 Building **modern web applications** with clean, efficient code.  
+
+🎵 Listening to music & watching movies.  
+
+🏎️ Following **Formula 1** races.  
 
 ### 🔍 Current Status
-**Open to new opportunities** and exciting projects as a **freelancer**!
+
+**Open to new opportunities** and exciting projects as a **freelancer**!.
 
 </td>
 <td valign="top" width="50%">
@@ -135,8 +140,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  
-**"Code is like humor. When you have to explain it, it's bad."** 💻✨
 
 <img src="https://komarev.com/ghpvc/?username=omancillav&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
