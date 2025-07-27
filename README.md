@@ -37,13 +37,13 @@
 ### 🎨 Desarrollo Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite" />
 </p>
 
 ### ⚙️ Desarrollo Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,py" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,java,python" />
 </p>
 
 ### 🗄️ Bases de Datos y Servicios
