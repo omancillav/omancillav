@@ -48,13 +48,13 @@
 
 ### 🗄️ Bases de Datos y Servicios
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,firebase,supabase" />
 </p>
 
 ### 🛠️ Herramientas y Plataformas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,jenkins,linux,windows,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm,linux,windows,vercel" />
 </p>
 
 </div>
