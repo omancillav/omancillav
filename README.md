@@ -8,8 +8,6 @@
 
 </div>
 
-<img align="right" width="300px" alt="Coding GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM4cjFtNDNrcndzb29wb2E1bzVkYXIwdGt3MHAyaDVwN2I3NGQ5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
-
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">&nbsp;***Acerca de mí***
 
 ### 🌟 ¿Quién soy?
@@ -19,14 +17,6 @@
 📚 Actualmente estudiando **Ingeniería en Desarrollo y Gestión de Software**.
 
 💡 Apasionado por convertir **ideas en realidad** a través del código.
-
-### 🎯 Lo que me gusta
-
-💻 Crear **aplicaciones web modernas** con código limpio y eficiente.
-
-🎵 Escuchar música y ver películas.
-
-🏎️ Seguir las carreras de **Fórmula 1**.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
