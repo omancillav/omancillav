@@ -54,19 +54,10 @@
 ## 📊 **Estadísticas de GitHub**
 
 <div align="center">
-  
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=omancillav&show_icons=true&theme=algolia" alt="Estadísticas de GitHub de Omar"/>
-</td>
-<td width="50%">
 <img src="https://streak-stats.demolab.com/?user=omancillav&theme=algolia" alt="Racha de GitHub de Omar"/>
-</td>
-</tr>
-</table>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=omancillav&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Actividad de Omar"/>
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=omancillav&color=blueviolet&style=for-the-badge&label=VISTAS+DEL+PERFIL" alt="Vistas del perfil" />
