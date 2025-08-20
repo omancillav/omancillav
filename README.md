@@ -54,8 +54,7 @@
 ## 📊 **Estadísticas de GitHub**
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=omancillav&theme=algolia" alt="Racha de GitHub de Omar"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omancillav&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Actividad de Omar"/>
+<img src="https://streak-stats.demolab.com?user=omancillav&theme=algolia&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
