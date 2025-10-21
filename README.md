@@ -27,7 +27,7 @@
 ### 🎨 Desarrollo Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,astro,tailwind,vite" />
 </p>
 
 ### ⚙️ Desarrollo Backend
