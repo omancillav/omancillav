@@ -16,31 +16,6 @@
 >
 > Me interesa crear soluciones útiles, claras y mantenibles, cuidando la experiencia de usuario y aprendiendo continuamente con cada proyecto.
 
-### 💡 Principales enfoques
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Desarrollo_Web-0787F6?style=flat-square&logo=googlechrome&logoColor=white"
-    alt="Desarrollo web"
-  />
-  <img
-    src="https://img.shields.io/badge/Desarrollo_Móvil-0787F6?style=flat-square&logo=react&logoColor=white"
-    alt="Desarrollo móvil"
-  />
-  <img
-    src="https://img.shields.io/badge/APIs_e_Integraciones-0787F6?style=flat-square&logo=fastapi&logoColor=white"
-    alt="APIs e integraciones"
-  />
-  <img
-    src="https://img.shields.io/badge/Bases_de_Datos-0787F6?style=flat-square&logo=postgresql&logoColor=white"
-    alt="Bases de datos"
-  />
-  <img
-    src="https://img.shields.io/badge/Experiencia_de_Usuario-0787F6?style=flat-square&logo=figma&logoColor=white"
-    alt="Experiencia de usuario"
-  />
-</p>
-
 <br>
 
 <p align="center">
