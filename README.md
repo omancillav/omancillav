@@ -55,7 +55,7 @@
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-omancilla.dev-0787F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.omancilla.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Mancilla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omancilla)
-[![Correo](https://img.shields.io/badge/Correo-contact%40omancilla.dev-0787F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@omancilla.dev)
+[![Correo](https://img.shields.io/badge/Correo-contacto%40omancilla.dev-0787F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@omancilla.dev)
 
 <br>
 
